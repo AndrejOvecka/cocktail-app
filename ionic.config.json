@@ -1,0 +1,8 @@
+{
+  "name": "cocktail_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "9bab6179"
+}
