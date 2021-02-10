@@ -73,6 +73,7 @@ export default {
     IonItem,
     IonList,
   },
+
   setup() {
     const router = useRouter();
     const route = useRoute();
